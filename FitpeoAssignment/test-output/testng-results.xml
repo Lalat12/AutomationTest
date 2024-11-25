@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-25T13:09:09 IST" name="Default suite" finished-at="2024-11-25T13:09:38 IST" duration-ms="29254">
+    <groups>
+    </groups>
+    <test started-at="2024-11-25T13:09:09 IST" name="Default test" finished-at="2024-11-25T13:09:38 IST" duration-ms="29254">
+      <class name="com.testng.Testcases.TestCases">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.testng.Testcases.TestCases@5b239d7d]" started-at="2024-11-25T13:09:09 IST" name="launchBrowser" finished-at="2024-11-25T13:09:20 IST" duration-ms="11295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="search()[pri:0, instance:com.testng.Testcases.TestCases@5b239d7d]" started-at="2024-11-25T13:09:20 IST" name="search" finished-at="2024-11-25T13:09:29 IST" duration-ms="9022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="validateCheckbox()[pri:1, instance:com.testng.Testcases.TestCases@5b239d7d]" started-at="2024-11-25T13:09:29 IST" name="validateCheckbox" finished-at="2024-11-25T13:09:32 IST" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCheckbox -->
+        <test-method signature="validateValue()[pri:2, instance:com.testng.Testcases.TestCases@5b239d7d]" started-at="2024-11-25T13:09:32 IST" name="validateValue" finished-at="2024-11-25T13:09:38 IST" duration-ms="6073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateValue -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.testng.Testcases.TestCases@5b239d7d]" started-at="2024-11-25T13:09:38 IST" name="closeBrowser" finished-at="2024-11-25T13:09:38 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testng.Testcases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
